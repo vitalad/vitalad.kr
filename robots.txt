@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vitalad.kr/sitemap.xml
